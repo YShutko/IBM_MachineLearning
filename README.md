@@ -1,11 +1,11 @@
-# 🎓 IBM Machine Learning Professional Certificate  
+# IBM Machine Learning Professional Certificate  
 
 This repository contains my work, notes, and projects from the **IBM Machine Learning Professional Certificate** program on Coursera.  
 The specialization provides a solid foundation in **machine learning concepts, techniques, and practical applications** using Python and modern ML libraries.  
 
 ---
 
-## 📚 Courses in the Specialization  
+## Courses in the Specialization  
 
 ### 1. [Exploratory Data Analysis for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning)  
 - Data preparation and cleaning  
